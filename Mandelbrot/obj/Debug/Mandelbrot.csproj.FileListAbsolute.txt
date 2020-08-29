@@ -1,0 +1,7 @@
+C:\Users\Dragonaut\Desktop\IGME-Prob-III\Mandelbrot\bin\Debug\Mandelbrot.exe.config
+C:\Users\Dragonaut\Desktop\IGME-Prob-III\Mandelbrot\bin\Debug\Mandelbrot.exe
+C:\Users\Dragonaut\Desktop\IGME-Prob-III\Mandelbrot\bin\Debug\Mandelbrot.pdb
+C:\Users\Dragonaut\Desktop\IGME-Prob-III\Mandelbrot\obj\Debug\Mandelbrot.csprojAssemblyReference.cache
+C:\Users\Dragonaut\Desktop\IGME-Prob-III\Mandelbrot\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\Dragonaut\Desktop\IGME-Prob-III\Mandelbrot\obj\Debug\Mandelbrot.exe
+C:\Users\Dragonaut\Desktop\IGME-Prob-III\Mandelbrot\obj\Debug\Mandelbrot.pdb
