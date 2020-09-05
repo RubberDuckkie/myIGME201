@@ -1,0 +1,6 @@
+C:\Users\Dragonaut\source\repos\Ogunwale_PE8_ 8\bin\Debug\Ogunwale_PE8_ 8.exe.config
+C:\Users\Dragonaut\source\repos\Ogunwale_PE8_ 8\bin\Debug\Ogunwale_PE8_ 8.exe
+C:\Users\Dragonaut\source\repos\Ogunwale_PE8_ 8\bin\Debug\Ogunwale_PE8_ 8.pdb
+C:\Users\Dragonaut\source\repos\Ogunwale_PE8_ 8\obj\Debug\Ogunwale_PE8_ 8.csproj.CoreCompileInputs.cache
+C:\Users\Dragonaut\source\repos\Ogunwale_PE8_ 8\obj\Debug\Ogunwale_PE8_ 8.exe
+C:\Users\Dragonaut\source\repos\Ogunwale_PE8_ 8\obj\Debug\Ogunwale_PE8_ 8.pdb
