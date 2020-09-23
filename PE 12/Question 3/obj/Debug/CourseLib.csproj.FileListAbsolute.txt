@@ -1,0 +1,6 @@
+C:\Users\Dragonaut\source\repos\CourseLib\obj\Debug\CourseLib.csprojAssemblyReference.cache
+C:\Users\Dragonaut\source\repos\CourseLib\obj\Debug\CourseLib.csproj.CoreCompileInputs.cache
+C:\Users\Dragonaut\source\repos\CourseLib\bin\Debug\CourseLib.dll
+C:\Users\Dragonaut\source\repos\CourseLib\bin\Debug\CourseLib.pdb
+C:\Users\Dragonaut\source\repos\CourseLib\obj\Debug\CourseLib.dll
+C:\Users\Dragonaut\source\repos\CourseLib\obj\Debug\CourseLib.pdb
