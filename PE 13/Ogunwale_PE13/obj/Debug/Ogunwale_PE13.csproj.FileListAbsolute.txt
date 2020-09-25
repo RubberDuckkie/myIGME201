@@ -1,0 +1,7 @@
+C:\Users\Dragonaut\source\repos\Ogunwale_PE13\bin\Debug\Ogunwale_PE13.exe.config
+C:\Users\Dragonaut\source\repos\Ogunwale_PE13\bin\Debug\Ogunwale_PE13.exe
+C:\Users\Dragonaut\source\repos\Ogunwale_PE13\bin\Debug\Ogunwale_PE13.pdb
+C:\Users\Dragonaut\source\repos\Ogunwale_PE13\obj\Debug\Ogunwale_PE13.csprojAssemblyReference.cache
+C:\Users\Dragonaut\source\repos\Ogunwale_PE13\obj\Debug\Ogunwale_PE13.csproj.CoreCompileInputs.cache
+C:\Users\Dragonaut\source\repos\Ogunwale_PE13\obj\Debug\Ogunwale_PE13.exe
+C:\Users\Dragonaut\source\repos\Ogunwale_PE13\obj\Debug\Ogunwale_PE13.pdb
