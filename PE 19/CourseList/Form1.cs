@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -51,54 +52,49 @@ View: Details
 
 *************************************************************************/
 
-
 namespace CourseList
 {
     public partial class CourseListForm : Form
     {
-        ListView courseListView = new ListView();
-        courseListView.Columns.Add("codeHdr", DisplayIndex)
-
         public CourseListForm()
         {
             InitializeComponent();
-
+            ListView courseListView = new ListView();
             Globals.AddCoursesSampleData();
 
             // 2. Add courseListView ItemActivate Event Handler with CourseListView__ItemActivate
             // (this is the Event Handler for the mouse double-click on a row of the ListView)
             // (the ListView control is called this.courseListView)
             // (refer to the Windows Form Controls Word Document in myCourses for the event handler syntax)
-            
 
             // 3. Add courseListView KeyDown Event Handler with CourseListView__KeyDown
             // (this is the Event Handler for pressing Enter on a row of the ListView)
-            
+
 
             // 4. Add courseListView SelectedIndexChanged Event Handler with CourseListView__SelectedIndexChanged
             // (this is the Event Handler for using the arrow keys or single-clicking on another row of the ListView)
-            
+
 
             // 5. disable updateButton (using the Enabled property)
-            
+            updateButton.Enabled = false;
 
             // 6. disable courseCodeTextBox
-            
+            courseCodeTextBox.Enabled = false;
 
             // 7. disable courseDescriptionTextBox
-            
+            courseDescriptionTextBox.Enabled = false;
 
             // 8. disable reviewRichTextBox
-            
+            reviewRichTextBox.Enabled = false;
 
             // 9. set focus on courseListView by calling the object's Focus() method
-            
+            this.courseListView.Focus();
 
             this.updateButton.Click += new EventHandler(UpdateButton__Click);
             this.exitButton.Click += new EventHandler(ExitButton__Click);
 
             // call PaintListView with null to indicate starting at top of list
-            
+            PaintListView(null);
         }
 
 
@@ -114,11 +110,11 @@ namespace CourseList
             int nStartEl = 0;
 
             // 10. if a firstCourseCode to display at top of the list was passed in
-            //if(    )
+            if (firstCourseCode = firstLVI)
             {
                 // 11. fetch the index of firstCourseCode from the Globals.courses.sortedList
                 // using the IndexOfKey method
-                
+                Globals.courses.sortedList.IndexOfKey(firstCourseCode);
             }
 
             // 12. clear the listview items
@@ -158,43 +154,43 @@ namespace CourseList
 
 
                 // 19. create a new ListViewItem.ListViewSubItem named lvsi for the next column
-                
+                ListViewItem.ListViewSubItem lvsi = new ListViewItem();
 
                 // 20. set the column to show thisCourse.description
                 
 
                 // 21. add lvsi to lvi.SubItems
-                
+
 
                 // 22. create a new ListViewItem.ListViewSubItem named lvsi for the next column
-                
+
 
                 // 23. set the column to show thisCourse.teacherEmail
-                
+
 
                 // 24. add lvsi to lvi.SubItems
-                
+                this l
 
 
                 // 25. create a new ListViewItem.ListViewSubItem named lvsi for the next column
-                
+
 
                 // 26. set the column to show thisCourse.schedule.DaysOfWeek()
                 // note that thisCourse.schedule.DaysOfWeek() returns the string that we want to display
-                
+
 
                 // 27. add lvsi to lvi.SubItems
-                
+
 
                 // 28. create a new ListViewItem.ListViewSubItem named lvsi for the next column
-                
+
 
                 // 29. set the column to show thisCourse.schedule.GetTimes()
                 // note that thisCourse.schedule.GetTimes() returns the string that we want to display
-                
+
 
                 // 30. add lvsi to lvi.SubItems
-                
+
 
 
                 // 31. if this row is the row that we are supposed to show at the top of the list
@@ -243,7 +239,7 @@ namespace CourseList
             if (course != null)
             {
                 // 41. set courseCodeTextBox to hold the courseCode
-            
+                courseCodeTextBox.
 
                 // 42. set courseDescriptionTextBox to hold the description
                 
@@ -430,5 +426,7 @@ namespace CourseList
         {
             Application.Exit();
         }
+
+       
     }
 }
