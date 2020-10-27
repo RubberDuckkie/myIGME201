@@ -1,0 +1,10 @@
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\bin\Debug\Ogunwale_PE_21.exe.config
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\bin\Debug\Ogunwale_PE_21.exe
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\bin\Debug\Ogunwale_PE_21.pdb
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\obj\Debug\Ogunwale_PE_21.csprojAssemblyReference.cache
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\obj\Debug\Ogunwale_PE_21.Form1.resources
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\obj\Debug\Ogunwale_PE_21.Properties.Resources.resources
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\obj\Debug\Ogunwale_PE_21.csproj.GenerateResource.cache
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\obj\Debug\Ogunwale_PE_21.csproj.CoreCompileInputs.cache
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\obj\Debug\Ogunwale_PE_21.exe
+C:\Users\Dragonaut\source\repos\Ogunwale_PE_21\obj\Debug\Ogunwale_PE_21.pdb
