@@ -1,0 +1,11 @@
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\obj\Debug\Ogunwale_PE26.csprojAssemblyReference.cache
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\obj\Debug\Ogunwale_PE26.SettingsForm.resources
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\obj\Debug\Ogunwale_PE26.DyscordForm.resources
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\obj\Debug\Ogunwale_PE26.Properties.Resources.resources
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\obj\Debug\Ogunwale_PE26.csproj.GenerateResource.cache
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\obj\Debug\Ogunwale_PE26.csproj.CoreCompileInputs.cache
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\bin\Debug\Ogunwale_PE26.exe.config
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\bin\Debug\Ogunwale_PE26.exe
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\bin\Debug\Ogunwale_PE26.pdb
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\obj\Debug\Ogunwale_PE26.exe
+C:\Users\Dragonaut\source\repos\Ogunwale_PE26\obj\Debug\Ogunwale_PE26.pdb
