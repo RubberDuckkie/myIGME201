@@ -1,0 +1,10 @@
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\bin\Debug\PresidentialProgress.exe.config
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\bin\Debug\PresidentialProgress.exe
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\bin\Debug\PresidentialProgress.pdb
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\obj\Debug\PresidentialProgress.csprojAssemblyReference.cache
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\obj\Debug\PresidentialProgress.Form1.resources
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\obj\Debug\PresidentialProgress.Properties.Resources.resources
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\obj\Debug\PresidentialProgress.csproj.GenerateResource.cache
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\obj\Debug\PresidentialProgress.csproj.CoreCompileInputs.cache
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\obj\Debug\PresidentialProgress.exe
+C:\Users\Dragonaut\Desktop\Unit Exam 3\PresidentialProgress\obj\Debug\PresidentialProgress.pdb
